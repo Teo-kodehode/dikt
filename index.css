@@ -1,0 +1,46 @@
+
+body{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    background-color: bisque;
+
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin-top: 20vh;
+}
+
+.poem{
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(255, 240, 217);
+    border-radius: 15px;
+    box-shadow: 0px 0px 5px 5px rgb(255, 240, 217);
+   
+}
+
+h1{
+    margin-bottom: 0px;
+    text-shadow: 2px 2px 3px rgb(124, 124, 124);
+}
+
+h2{
+    margin-top: 0px;
+    font-size: 25px;
+    color: rgb(146, 146, 146);
+    text-shadow: 2px 2px 3px rgb(5, 5, 5);
+}
+
+p{
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+img{
+    max-width: 100px;
+}
